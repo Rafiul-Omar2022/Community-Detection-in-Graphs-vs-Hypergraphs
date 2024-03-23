@@ -1,0 +1,15 @@
+K: 2
+assortative: false
+check_convergence_every: 10
+em_rounds: 100
+hyperedge_file: ./data/examples/justice_dataset/hyperedges.txt
+max_hye_size: null
+out_dir: ./out_inference/justice
+pickle_file: ''
+real_dataset: ''
+seed: null
+tolerance: null
+training_rounds: 10
+u_prior: 0.0
+w_prior: 1.0
+weight_file: ./data/examples/justice_dataset/weights.txt
