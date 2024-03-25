@@ -10,7 +10,7 @@ All the paper and code that we are following:
 | Paper title                              | Paper link                                                   | Github/code    |
 | ---------------------------------------- | ------------------------------------------------------------ | -------------- |
 | Community detection in large hypergraphs | [https://www.science.org/doi/10.1126/sciadv.adg9159][Cdlh-P] | [Code][cdlh-C] |
-| Clustering with Hypergraphs: The Case for Large Hyperedges | [[https://www.science.org/doi/10.1126/sciadv.adg9159][Cwh:Cflh-P] |  |
+| Clustering with Hypergraphs: The Case for Large Hyperedges | [https://ieeexplore.ieee.org/document/7582510][Cwh:Cflh-P] |  |
 
 ### Other referance papers:
 
@@ -24,4 +24,4 @@ All the paper and code that we are following:
 [Cdlh-C]: https://github.com/nickruggeri/Hy-MMSBM
 [Fbcdh-P]: https://arxiv.org/pdf/2105.04389.pdf
 [Cdhnrtpi-P]: https://arxiv.org/pdf/1909.06503.pdf
-[Cwh:Cflh-P]: https://sci-hub.se/https://ieeexplore.ieee.org/document/7582510
+[Cwh:Cflh-P]: https://ieeexplore.ieee.org/document/7582510
