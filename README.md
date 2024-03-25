@@ -12,7 +12,7 @@ All the paper and code that we are following:
 | Community detection in large hypergraphs | [https://www.science.org/doi/10.1126/sciadv.adg9159][Cdlh-P] | [Code][cdlh-C] |
 | Clustering with Hypergraphs: The Case for Large Hyperedges | [https://ieeexplore.ieee.org/document/7582510][Cwh:Cflh-P] |  |
 
-### Other referance papers:
+### Other reference papers:
 
 - [Flow-based Community Detection in
   Hypergraphs][Fbcdh-P]
